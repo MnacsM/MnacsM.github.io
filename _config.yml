@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Masaki MURATA's HP
-author: Masaki MURATA
+author: 村田 匡輝
 email: masakimurata.1229@gmail.com
 # description: >- # this means to ignore newlines until "baseurl:"
 description: |
@@ -52,7 +52,7 @@ footer_icons:
   icon: icon-github.svg
 - username: m_a_nacs_love
   url: https://twitter.com/m_a_nacs_love
-  # icon: icon-github.svg
+  # icon: {{site.baseurl}}/picture/icon-twitter.svg
 
 paginate: 5  
 
