@@ -1,0 +1,77 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Masaki MURATA's HP
+author: Masaki MURATA
+email: masakimurata.1229@gmail.com
+# description: >- # this means to ignore newlines until "baseurl:"
+description: |
+  豊田工業高等専門学校　情報工学科　
+  村田研究室（自然言語処理研究室）
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: m_a_nacs_love
+# github_username:  MnacsM
+# repository: MnacsM.github.io
+
+# Build settings
+markdown: kramdown
+# theme: minima
+# theme: overkyll-jekyll-theme
+# theme: jekyll-theme-architect
+remote_theme: aterenin/minima-reboot
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-redirect-from
+
+# architect
+# github:
+#   is_user_page: True
+#   is_project_page: False
+
+minima_reboot:
+  date_format: "%b %-d, %Y"
+  date_format_short: "%b %-d"
+footer_icons:
+- username: MnacsM
+  url: https://github.com/MnacsM
+  icon: icon-github.svg
+- username: m_a_nacs_love
+  url: https://twitter.com/m_a_nacs_love
+  # icon: icon-github.svg
+
+paginate: 5  
+
+header_pages:
+- about.md
+- research.md
+- publication.md
+- lecture.md
+- posts.md
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - minima-reboot.gemspec
