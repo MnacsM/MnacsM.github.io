@@ -7,8 +7,6 @@ permalink: /publication/
 ## 論文（査読付き）
 
 1. 語りの傾聴を話し手に示す応答発話の収集, 村田 匡輝, 大野 誠寛, 松原 茂樹, 電気学会論文誌, Vol. 138-C, No. 5, pp. 637 - 638, 2018年5月  査読有り
-1. Sequential Linefeed Insertion into Lecture Transcriptions for Real-Time Captioning, Tomohiro Ohno, Masaki Murata, Shigeki Matsubara, 
-ELECTRONICS AND COMMUNICATIONS IN JAPAN, Vol. 98, No. 2, pp. 20 - 31, 2015年2月  査読有り
 1. 自然なニュース音声の自動生成に向けた体言止めの文への文末表現の補完, 松原 茂樹, 村田 匡輝, 電子情報通信学会論文誌, Vol. 97-D, No. 1, pp. 181 - 185, 2014年1月  査読有り
 1. 講演のリアルタイム字幕生成のための逐次的な改行挿入, 大野 誠寛, 村田 匡輝, 松原 茂樹, 電気学会論文誌, Vol. 133-C, No. 2, pp. 418 - 426, 2013年2月  査読有り
 1. 読点の用法的分類に基づく日本語テキストへの自動読点挿入, 村田 匡輝, 大野 誠寛, 松原 茂樹, 電子情報通信学会論文誌, Vol. 95-D, No. 9, pp. 1783 - 1793, 2012年9月  査読有り
