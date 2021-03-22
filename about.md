@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<!-- ![プロフィール]({{site.baseurl}}/picture/profile.jpg) -->
+![プロフィール]({{site.baseurl}}/assets/profile.jpg)
 ## [村田 匡輝　博士（情報科学）](https://researchmap.jp/Masaki_MURATA)
 
 [豊田工業高等専門学校](https://www.toyota-ct.ac.jp/j/index.php)  

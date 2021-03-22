@@ -21,7 +21,7 @@ description: |
   豊田工業高等専門学校 情報工学科 
   村田研究室（自然言語処理研究室）
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: m_a_nacs_love
+twitter_username: m_a_nacs_love
 # github_username:  MnacsM
 # repository: MnacsM.github.io
 
@@ -49,10 +49,10 @@ minima_reboot:
 footer_icons:
 - username: MnacsM
   url: https://github.com/MnacsM
-  icon: icon-github.svg
+  icon: iconmonstr-github-3.svg
 - username: m_a_nacs_love
   url: https://twitter.com/m_a_nacs_love
-  icon: icon-github.svg
+  icon: iconmonstr-twitter-3.svg
 
 paginate: 5  
 
