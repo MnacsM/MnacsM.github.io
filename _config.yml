@@ -55,6 +55,7 @@ footer_icons:
   icon: iconmonstr-twitter-3.svg
 
 paginate: 5  
+google_analytics: G-1JMEZ8WYN8
 
 header_pages:
 - about.md
