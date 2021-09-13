@@ -37,6 +37,7 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 # architect
 # github:
