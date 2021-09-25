@@ -60,11 +60,11 @@ paginate: 5
 google_analytics: G-1JMEZ8WYN8
 
 header_pages:
-- about.md
-- research.md
-- publication.md
-- lecture.md
-- posts.md
+#   - abount.md
+  - research.md
+  - publication.md
+  - lecture.md
+  - posts.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
