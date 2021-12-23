@@ -15,8 +15,8 @@ permalink: /publication/
 
 ## 国際会議
 
-1. Identification of Important Utterances in Narrative Speech Using Attentive Listening Responses, Shunsuke Kosugi, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP2021), to appear,  査読有り
-1. Estimating the Generation Timing of Responsive Utterances by Active Listeners of Spoken Narratives, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of IEEE Automatic Speech Recognition and Understanding Workshop (ASRU 2021), pp. 495 - 502, 2021年　査読有り
+1. Identification of Important Utterances in Narrative Speech Using Attentive Listening Responses, Shunsuke Kosugi, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP2021), pp. 1 - 5, online, Dec. 2021年 査読有り
+1. Estimating the Generation Timing of Responsive Utterances by Active Listeners of Spoken Narratives, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of IEEE Automatic Speech Recognition and Understanding Workshop (ASRU 2021), pp. 495 - 502, Cartagena, Colombia (online), Dec. 2021年　査読有り
 1. Relation between Degree of Empathy for Narrative Speech and Type of Responsive Utterance in Attentive listening, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 12th Language Resources and Evaluation Conference (LREC 2020), pp. 689 - 694, 2020年  査読有り
 1. Collection of Responsive Utterances to Show Attentive Hearing Attitude to Speakers, Tomohiro Ohno, Masaki Murata, Shigeki Matsubara, Proceedings of the 11th International Conference on Ubiquitous Information Management and Communication (ACM IMCOM 2017), pp. 1 - 4, 2017年  査読有り
 1. Personalized Text Formatting for E-mail Messages, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Intelligent Interactive Multimedia Systems and Services (IIMSS 2012), 14, pp. 459-468, 2012年  査読有り

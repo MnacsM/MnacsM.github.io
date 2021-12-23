@@ -8,8 +8,8 @@ permalink: /about/
 
 ## プロフィール
 
-- 氏名：[村田 匡輝](https://researchmap.jp/Masaki_MURATA) (Masaki MURATA)
-- 所属：[豊田工業高等専門学校](https://www.toyota-ct.ac.jp/j/index.php)  [情報工学科](http://www.ice.toyota-ct.ac.jp/jp/) 
+- 氏名：[村田 匡輝](https://researchmap.jp/Masaki_MURATA){:target="_blank"} (Masaki MURATA)
+- 所属：[豊田工業高等専門学校](https://www.toyota-ct.ac.jp/j/index.php){:target="_blank"} [情報工学科](http://www.ice.toyota-ct.ac.jp/jp/){:target="_blank"}
 - 役職：准教授
 - 連絡先：murata [at] toyota-ct.ac.jp
 
@@ -29,6 +29,12 @@ permalink: /about/
 - 2013年4月 - 2018年3月　豊田工業高等専門学校 情報工学科 助教
 - 2018年4月 - 現在　豊田工業高等専門学校 情報工学科 准教授
 
+<!-- ## 賞罰
+
+- 平成21年度 電子情報通信学会東海支部 学生研究奨励賞
+- 平成22年度 名古屋大学学術奨励賞
+- 平成23年度 電気関係学会東海支部連合大会 奨励賞 -->
+
 ## 所属学会
 
 言語処理学会，情報処理学会，電気情報通信学会各会員
@@ -40,3 +46,4 @@ permalink: /about/
 - 2018年11月　第16回情報学ワークショップ（WiNF2018）プログラム委員
 - 2019年11月　第17回情報学ワークショップ（WiNF2019）プログラム委員
 - 2020年11月　第18回情報学ワークショップ（WiNF2020）プログラム委員
+- 2020年11月　第19回情報学ワークショップ（WiNF2021）プログラム委員
