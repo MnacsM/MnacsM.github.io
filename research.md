@@ -19,11 +19,11 @@ permalink: /research/
 - 人の語りを傾聴するシステムの開発に関する研究
 - 読みやすい字幕を生成するシステムの開発に関する研究
 
-<video oncontextmenu="return false;" controls controlsList="nodownload" preload="auto" width="50%">
+<!-- <video oncontextmenu="return false;" controls controlsList="nodownload" preload="auto" width="50%">
     <source src="{{site.baseurl}}/assets/research_video.mp4"
             type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
-</video>
+</video> -->
 
 ## 科研費
 
