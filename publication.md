@@ -17,14 +17,14 @@ permalink: /publication/
 
 1. Identification of Important Utterances in Narrative Speech Using Attentive Listening Responses, Shunsuke Kosugi, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP2021), pp. 1 - 5, online, Dec. 2021年　__査読有り__
 1. Estimating the Generation Timing of Responsive Utterances by Active Listeners of Spoken Narratives, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of IEEE Automatic Speech Recognition and Understanding Workshop (ASRU 2021), pp. 495 - 502, Cartagena, Colombia (online), Dec. 2021年　__査読有り__
-1. Relation between Degree of Empathy for Narrative Speech and Type of Responsive Utterance in Attentive listening, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 12th Language Resources and Evaluation Conference (LREC 2020), pp. 689 - 694, 2020年　__査読有り__
-1. Collection of Responsive Utterances to Show Attentive Hearing Attitude to Speakers, Tomohiro Ohno, Masaki Murata, Shigeki Matsubara, Proceedings of the 11th International Conference on Ubiquitous Information Management and Communication (ACM IMCOM 2017), pp. 1 - 4, 2017年　__査読有り__
-1. Personalized Text Formatting for E-mail Messages, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Intelligent Interactive Multimedia Systems and Services (IIMSS 2012), 14, pp. 459-468, 2012年　__査読有り__
+1. Relation between Degree of Empathy for Narrative Speech and Type of Responsive Utterance in Attentive listening, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 12th Language Resources and Evaluation Conference (LREC 2020), pp. 689 - 694, May 2020年　__査読有り__
+1. Collection of Responsive Utterances to Show Attentive Hearing Attitude to Speakers, Tomohiro Ohno, Masaki Murata, Shigeki Matsubara, Proceedings of the 11th International Conference on Ubiquitous Information Management and Communication (ACM IMCOM 2017), pp. 1 - 4, Jan. 2018年　__査読有り__
+1. Personalized Text Formatting for E-mail Messages, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Intelligent Interactive Multimedia Systems and Services (IIMSS 2012), 14, pp. 459-468, May 2012年　__査読有り__
 1. Automatic Text Formatting for Social Media Based on Linefeed and Comma Insertion, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Intelligent Interactive Multimedia Systems and Services (IIMSS 2011), 11, pp. 285 - 294, 2011年　__査読有り__
-1. Construction of Chunk-Aligned Bilingual Lecture Corpus for Simultaneous Machine Translation, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Yasuyoshi Inagaki, Proceedings of the 7th International Conference on Language Resources and Evaluation (LREC 2010), pp. 1765 - 1770, 2010年　__査読有り__
-1. Automatic Comma Insertion for Japanese Text Generation, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 2010 Conference on Empirical Methods in Natural Language Processing (EMNLP 2010), pp. 892 - 901, 2010年　__査読有り__
-1. Automatic Linefeed Insertion for Improving Readability of Lecture Transcript, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, 2nd International Symposium on Intelligent Interactive Multimedia Systems and Services (KES-IIMSS 2009), pp. 499 - 509, 2009年　__査読有り__
-1. Linefeed Insertion into Japanese Spoken Monologue for Captioning, Tomohiro Ohno, Masaki Murata, Shigeki Matsubara, Proceedings of Joint conference of the 47th Annual Meeting of the Association for Computational Linguistics and the 4th International Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing (ACL-IJCNLP 2009), pp. 531 - 539, 2009年　__査読有り__
+1. Automatic Comma Insertion for Japanese Text Generation, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 2010 Conference on Empirical Methods in Natural Language Processing (EMNLP 2010), pp. 892 - 901, Oct. 2010年　__査読有り__
+1. Construction of Chunk-Aligned Bilingual Lecture Corpus for Simultaneous Machine Translation, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Yasuyoshi Inagaki, Proceedings of the 7th International Conference on Language Resources and Evaluation (LREC 2010), pp. 1765 - 1770, May 2010年　__査読有り__
+1. Linefeed Insertion into Japanese Spoken Monologue for Captioning, Tomohiro Ohno, Masaki Murata, Shigeki Matsubara, Proceedings of Joint conference of the 47th Annual Meeting of the Association for Computational Linguistics and the 4th International Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing (ACL-IJCNLP 2009), pp. 531 - 539, Aug. 2009年　__査読有り__
+1. Automatic Linefeed Insertion for Improving Readability of Lecture Transcript, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, 2nd International Symposium on Intelligent Interactive Multimedia Systems and Services (KES-IIMSS 2009), pp. 499 - 509, July 2009年　__査読有り__
 
 ## 国内学会
 
@@ -53,7 +53,7 @@ permalink: /publication/
 1. 講演の同時翻訳のための対訳データの作成と分析, 村田 匡輝, 大野 誠寛, 松原 茂樹, 稲垣 康善, 第8回情報科学技術フォーラム講演論文集 8(2), pp. 293 - 294, 2009年8月
 1. 読みやすい字幕生成のための講演文への漸進的改行挿入 (音声言語情報処理(SLP) Vol.2009-SLP-76), 村田 匡輝, 大野 誠寛, 松原 茂樹, 情報処理学会研究報告 2009(1), pp. 1 - 8, 2009年6月
 1. 講演テキストにおける読みやすさを考慮した改行挿入とその評価, 村田 匡輝, 大野 誠寛, 松原 茂樹, 言語処理学会第15回年次大会発表論文集, pp. 474 - 477, 2009年3月
-1. リアルタイム字幕生成のための音声ドキュメントへの改行挿入, 大野 誠寛, 村田 匡輝, 松原 茂樹, 音声ドキュメント処理ワークショップ講演論文集 3, pp. 127 - 132, 2009年2月27日
+1. リアルタイム字幕生成のための音声ドキュメントへの改行挿入, 大野 誠寛, 村田 匡輝, 松原 茂樹, 音声ドキュメント処理ワークショップ講演論文集 3, pp. 127 - 132, 2009年2月
 1. 講演テキストにおける読みやすさを考慮した改行位置同定, 村田 匡輝, 大野 誠寛, 松原 茂樹, 情報処理学会研究報告 2008-NL-188(113), pp. 37 - 44, 2008年11月
 1. 読みやすい字幕生成のための独話文への改行挿入, 村田 匡輝, 大野 誠寛, 松原 茂樹, 柏岡 秀紀, 言語処理学会第14回年次大会発表論文集, pp. 973 - 976, 2008年3月
 
