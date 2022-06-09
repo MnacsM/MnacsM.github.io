@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![プロフィール]({{site.baseurl}}/assets/profile.jpg)
+![プロフィール]({{site.baseurl}}/assets/images/profile.jpg)
 
 ## プロフィール
 

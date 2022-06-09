@@ -17,7 +17,7 @@ permalink: /research/
 適切な傾聴応答を生成するためには適切なタイミングで適切な表現を表出する必要があります．
 しかし，その方略を明らかではないことから，語りに対する傾聴応答データを収集し，その分析を通して，適切な生成方式を開発することが本研究の目的です．
 
-<img src="{{site.baseurl}}/assets/robot.png" width="30%">
+<img src="{{site.baseurl}}/assets/images/robot.png" width="30%">
 
 ### 読みやすい字幕を生成するシステムの開発に関する研究
 
@@ -28,7 +28,7 @@ permalink: /research/
 
 本研究では，上記の問題点を自動的に解決し，スライド上に**読みやすい字幕を提示**することを目的としたシステムの開発を行います．
 
-<img src="{{site.baseurl}}/assets/transcription.png" width="30%">
+<img src="{{site.baseurl}}/assets/images/transcription.png" width="30%">
 
 <!-- <video oncontextmenu="return false;" controls controlsList="nodownload" preload="auto" width="50%">
     <source src="{{site.baseurl}}/assets/research_video.mp4"
