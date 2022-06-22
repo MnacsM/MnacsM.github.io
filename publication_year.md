@@ -5,7 +5,7 @@ title: Publication
 
 ## 2022
 
-1. Construction of Responsive Utterance Corpus for Attentive Listening Response Production, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022), to appear　__査読有り__
+1. Construction of Responsive Utterance Corpus for Attentive Listening Response Production, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022), pp. 7244 - 7252, Marseille, France (hybrid), Jun. 2022年　__査読有り__
 
 ## 2021
 
