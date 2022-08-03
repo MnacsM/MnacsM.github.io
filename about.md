@@ -9,7 +9,7 @@ permalink: /about/
 ## プロフィール
 
 - 氏名：[村田 匡輝](https://researchmap.jp/Masaki_MURATA){:target="_blank"} (Masaki MURATA)
-- 所属：[豊田工業高等専門学校](https://www.toyota-ct.ac.jp/j/index.php){:target="_blank"} [情報工学科](http://www.ice.toyota-ct.ac.jp/jp/){:target="_blank"}
+- 所属：[豊田工業高等専門学校](https://www.toyota-ct.ac.jp/j/index.php){:target="_blank"} [情報工学科](https://www.ice.toyota-ct.ac.jp/jp/){:target="_blank"}
 - 役職：准教授
 - 連絡先：murata [at] toyota-ct.ac.jp
 
