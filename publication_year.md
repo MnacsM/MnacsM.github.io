@@ -6,7 +6,8 @@ title: Publication
 ## 2022
 
 1. 語りに傾聴を示す応答の表出されやすさの推定, 伊藤 滉一朗, 村田 匡輝, 大野 誠寛, 松原 茂樹,  （採録決定）　__査読有り__
-1. Construction of Responsive Utterance Corpus for Attentive Listening Response Production, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022), pp. 7244 - 7252, Marseille, France (hybrid), Jun. 2022年　__査読有り__
+1. Teaching and Grading Team Programming Skills Using a Code Sharing Platform: A Case Study of Cloud Application Development, Manabu Hirano, Masaki Murata, Takumi Nakano, Proceedings of the 15th International Symposium on Advances in Technology Education (ISATE 2022), Temasek Polytechnic, Singapore (online), Sep. 2022年　__査読有り__
+1. [Construction of Responsive Utterance Corpus for Attentive Listening Response Production](https://aclanthology.org/2022.lrec-1.786/), Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022), pp. 7244 - 7252, Marseille, France (hybrid), Jun. 2022年　__査読有り__
 
 ## 2021
 
@@ -31,7 +32,7 @@ title: Publication
 
 ## 2018
 
-1. 語りの傾聴を話し手に示す応答発話の収集, 村田 匡輝, 大野 誠寛, 松原 茂樹, 電気学会論文誌, Vol. 138-C, No. 5, pp. 637 - 638, 2018年5月　__査読有り__
+1. [語りの傾聴を話し手に示す応答発話の収集](https://doi.org/10.1541/ieejeiss.138.637), 村田 匡輝, 大野 誠寛, 松原 茂樹, 電気学会論文誌, Vol. 138-C, No. 5, pp. 637 - 638, 2018年5月　__査読有り__
 1. 傾聴を示す応答で繰り返される語りの語句の特徴分析, 伊藤 滉一朗, 村田 匡輝, 大野 誠寛, 松原 茂樹, 第16回情報学ワークショップ（WiNF2018）, 2018年11月
 1. 系列変換モデルに基づく傾聴的な応答表現の生成, 村田 匡輝, 大野 誠寛, 松原 茂樹, 言語処理学会第24回年次大会発表論文集, pp. 821 - 824, 2018年3月
 1. Collection of Responsive Utterances to Show Attentive Hearing Attitude to Speakers, Tomohiro Ohno, Masaki Murata, Shigeki Matsubara, Proceedings of the 11th International Conference on Ubiquitous Information Management and Communication (ACM IMCOM 2017), pp. 1 - 4, Jan. 2018年　__査読有り__
@@ -54,11 +55,11 @@ title: Publication
 
 1. 未入力文節との構文的関係を考慮する漸進的な係り受け解析, 村田 匡輝, 大野 誠寛, 松原 茂樹, 言語処理学会第20回年次大会発表論文集, pp. 193 - 196, 2014年3月
 1. 読みやすいテキスト提示のための日本語文の整形に関する研究（<特集>人工知能分野における博士論文）, 村田 匡輝, 人工知能学会誌 29(1), pp. 97, 2014年1月
-1. 自然なニュース音声の自動生成に向けた体言止めの文への文末表現の補完, 松原 茂樹, 村田 匡輝, 電子情報通信学会論文誌, Vol. 97-D, No. 1, pp. 181 - 185, 2014年1月　__査読有り__
+1. [自然なニュース音声の自動生成に向けた体言止めの文への文末表現の補完](https://search.ieice.org/bin/summary.php?id=j97-d_1_181), 松原 茂樹, 村田 匡輝, 電子情報通信学会論文誌, Vol. 97-D, No. 1, pp. 181 - 185, 2014年1月　__査読有り__
 
 ## 2013
 
-1. 講演のリアルタイム字幕生成のための逐次的な改行挿入, 大野 誠寛, 村田 匡輝, 松原 茂樹, 電気学会論文誌, Vol. 133-C, No. 2, pp. 418 - 426, 2013年2月　__査読有り__
+1. [講演のリアルタイム字幕生成のための逐次的な改行挿入](https://doi.org/10.1541/ieejeiss.133.418), 大野 誠寛, 村田 匡輝, 松原 茂樹, 電気学会論文誌, Vol. 133-C, No. 2, pp. 418 - 426, 2013年2月　__査読有り__
 
 ## 2012
 
