@@ -6,15 +6,17 @@ permalink: /publication/
 
 ## 査読付き学術論文
 
-1. 語りの傾聴を話し手に示す応答発話の収集, 村田 匡輝, 大野 誠寛, 松原 茂樹, 電気学会論文誌, Vol. 138-C, No. 5, pp. 637 - 638, 2018年5月　__査読有り__
-1. 自然なニュース音声の自動生成に向けた体言止めの文への文末表現の補完, 松原 茂樹, 村田 匡輝, 電子情報通信学会論文誌, Vol. 97-D, No. 1, pp. 181 - 185, 2014年1月　__査読有り__
-1. 講演のリアルタイム字幕生成のための逐次的な改行挿入, 大野 誠寛, 村田 匡輝, 松原 茂樹, 電気学会論文誌, Vol. 133-C, No. 2, pp. 418 - 426, 2013年2月　__査読有り__
+1. 語りに傾聴を示す応答の表出されやすさの推定, 伊藤 滉一朗, 村田 匡輝, 大野 誠寛, 松原 茂樹,  （採録決定）　__査読有り__
+1. [語りの傾聴を話し手に示す応答発話の収集](https://doi.org/10.1541/ieejeiss.138.637), 村田 匡輝, 大野 誠寛, 松原 茂樹, 電気学会論文誌, Vol. 138-C, No. 5, pp. 637 - 638, 2018年5月　__査読有り__
+1. [自然なニュース音声の自動生成に向けた体言止めの文への文末表現の補完](https://search.ieice.org/bin/summary.php?id=j97-d_1_181), 松原 茂樹, 村田 匡輝, 電子情報通信学会論文誌, Vol. 97-D, No. 1, pp. 181 - 185, 2014年1月　__査読有り__
+1. [講演のリアルタイム字幕生成のための逐次的な改行挿入](https://doi.org/10.1541/ieejeiss.133.418), 大野 誠寛, 村田 匡輝, 松原 茂樹, 電気学会論文誌, Vol. 133-C, No. 2, pp. 418 - 426, 2013年2月　__査読有り__
 1. 読点の用法的分類に基づく日本語テキストへの自動読点挿入, 村田 匡輝, 大野 誠寛, 松原 茂樹, 電子情報通信学会論文誌, Vol. 95-D, No. 9, pp. 1783 - 1793, 2012年9月　__査読有り__
 1. Construction of Linefeed Insertion Rules for Lecture Transcript and Their Evaluation, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, International Journal of Knowledge and Web Intelligence, Vol. 1, No. 3/4, pp. 227 - 242, 2010年7月　__査読有り__
 1. 読みやすい字幕生成のための講演テキストへの改行挿入, 村田 匡輝, 大野 誠寛, 松原 茂樹, 電子情報通信学会論文誌, Vol. 92-D, No. 9, pp. 1621 - 1631, 2009年9月　__査読有り__
 
 ## 国際会議
 
+1. Teaching and Grading Team Programming Skills Using a Code Sharing Platform: A Case Study of Cloud Application Development, Manabu Hirano, Masaki Murata, Takumi Nakano, Proceedings of the 15th International Symposium on Advances in Technology Education (ISATE 2022), pp. xx - xx, Temasek Polytechnic, Singapore (online), Sep. 2022年　__査読有り__
 1. Construction of Responsive Utterance Corpus for Attentive Listening Response Production, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022), pp. 7244 - 7252, Marseille, France (hybrid), Jun. 2022年　__査読有り__
 1. Identification of Important Utterances in Narrative Speech Using Attentive Listening Responses, Shunsuke Kosugi, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP2021), pp. 1 - 5, online, Dec. 2021年　__査読有り__
 1. Estimating the Generation Timing of Responsive Utterances by Active Listeners of Spoken Narratives, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of IEEE Automatic Speech Recognition and Understanding Workshop (ASRU 2021), pp. 495 - 502, Cartagena, Colombia (online), Dec. 2021年　__査読有り__
