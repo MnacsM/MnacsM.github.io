@@ -6,8 +6,10 @@ title: Publication
 ## 2022
 
 1. 語りに傾聴を示す応答の表出されやすさの推定, 伊藤 滉一朗, 村田 匡輝, 大野 誠寛, 松原 茂樹,  （採録決定）　__査読有り__
+1. マルチタスク学習による講演テキストへの読点と改行の自動挿入, 方 之成, 村田 匡輝, 松原 茂樹, 第20回情報学ワークショップ（WiNF2022）, 2022年12月　（発表予定）
 1. Teaching and Grading Team Programming Skills Using a Code Sharing Platform: A Case Study of Cloud Application Development, Manabu Hirano, Masaki Murata, Takumi Nakano, Proceedings of the 15th International Symposium on Advances in Technology Education (ISATE 2022), Temasek Polytechnic, Singapore (online), Sep. 2022年　__査読有り__
 1. [Construction of Responsive Utterance Corpus for Attentive Listening Response Production](https://aclanthology.org/2022.lrec-1.786/), Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022), pp. 7244 - 7252, Marseille, France (hybrid), Jun. 2022年　__査読有り__
+1. マルチタスク学習を用いた傾聴的な応答の生成精度改善, 長坂 光将，村田 匡輝, 令和3年度第3ブロック専攻科研究フォーラム, C-8, 2022年3月
 
 ## 2021
 
@@ -19,6 +21,7 @@ title: Publication
 
 ## 2020
 
+1. 話し手の語りに傾聴を示すシステムの開発, 堀上 七瀬, 村田 匡輝, 令和元年度第3ブロック専攻科研究フォーラム, P-90, 2020年3月
 1. 傾聴において表出する評価応答に対応した語りの語句, 小杉 駿介, 伊藤 滉一朗, 村田 匡輝, 大野 誠寛, 松原 茂樹, 情報処理学会第82回全国大会論文集 (2), pp. 461 - 462, 2020年3月
 1. 語りの傾聴における共感の深さと応答の種類の関係, 伊藤 滉一朗, 村田 匡輝, 大野 誠寛, 松原 茂樹, 言語処理学会第26回年次大会発表論文集, pp. 1400 - 1403, 2020年3月
 1. 語りの傾聴において表出する応答データの拡充, 村田 匡輝, 大野 誠寛, 松原 茂樹, 言語処理学会第26回年次大会発表論文集, pp. 129 - 132, 2020年3月
@@ -34,6 +37,7 @@ title: Publication
 
 1. [語りの傾聴を話し手に示す応答発話の収集](https://doi.org/10.1541/ieejeiss.138.637), 村田 匡輝, 大野 誠寛, 松原 茂樹, 電気学会論文誌, Vol. 138-C, No. 5, pp. 637 - 638, 2018年5月　__査読有り__
 1. 傾聴を示す応答で繰り返される語りの語句の特徴分析, 伊藤 滉一朗, 村田 匡輝, 大野 誠寛, 松原 茂樹, 第16回情報学ワークショップ（WiNF2018）, 2018年11月
+1. 高齢者発話における手がかり表現に基づく称賛判定手法の開発, 島田 侑里, 村田 匡輝, 平成29年度第3ブロック専攻科研究フォーラム, P-032, 2018年3月
 1. 系列変換モデルに基づく傾聴的な応答表現の生成, 村田 匡輝, 大野 誠寛, 松原 茂樹, 言語処理学会第24回年次大会発表論文集, pp. 821 - 824, 2018年3月
 1. Collection of Responsive Utterances to Show Attentive Hearing Attitude to Speakers, Tomohiro Ohno, Masaki Murata, Shigeki Matsubara, Proceedings of the 11th International Conference on Ubiquitous Information Management and Communication (ACM IMCOM 2017), pp. 1 - 4, Jan. 2018年　__査読有り__
 
