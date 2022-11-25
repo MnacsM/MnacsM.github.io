@@ -3,9 +3,12 @@ layout: default
 title: Publication
 ---
 
+## 2023
+
+1. 語りに傾聴を示す応答の表出されやすさの推定, 伊藤 滉一朗, 村田 匡輝, 大野 誠寛, 松原 茂樹, 電子情報通信学会論文誌, Vol. J106-A, No. 3, pp. xx - xx, 2023年3月 （採録決定）　__査読有り__
+
 ## 2022
 
-1. 語りに傾聴を示す応答の表出されやすさの推定, 伊藤 滉一朗, 村田 匡輝, 大野 誠寛, 松原 茂樹,  （採録決定）　__査読有り__
 1. マルチタスク学習による講演テキストへの読点と改行の自動挿入, 方 之成, 村田 匡輝, 松原 茂樹, 第20回情報学ワークショップ（WiNF2022）, 2022年12月　（発表予定）
 1. Teaching and Grading Team Programming Skills Using a Code Sharing Platform: A Case Study of Cloud Application Development, Manabu Hirano, Masaki Murata, Takumi Nakano, Proceedings of the 15th International Symposium on Advances in Technology Education (ISATE 2022), Temasek Polytechnic, Singapore (online), Sep. 2022年　__査読有り__
 1. [Construction of Responsive Utterance Corpus for Attentive Listening Response Production](https://aclanthology.org/2022.lrec-1.786/), Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022), pp. 7244 - 7252, Marseille, France (hybrid), Jun. 2022年　__査読有り__
