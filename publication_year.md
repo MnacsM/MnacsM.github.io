@@ -9,7 +9,7 @@ title: Publication
 
 ## 2022
 
-1. マルチタスク学習による講演テキストへの読点と改行の自動挿入, 方 之成, 村田 匡輝, 松原 茂樹, 第20回情報学ワークショップ（WiNF2022）, 2022年12月　（発表予定）
+1. マルチタスク学習による講演テキストへの読点と改行の自動挿入, 方 之成, 村田 匡輝, 松原 茂樹, 第20回情報学ワークショップ（WiNF2022）, 2022年12月
 1. Teaching and Grading Team Programming Skills Using a Code Sharing Platform: A Case Study of Cloud Application Development, Manabu Hirano, Masaki Murata, Takumi Nakano, Proceedings of the 15th International Symposium on Advances in Technology Education (ISATE 2022), Temasek Polytechnic, Singapore (online), Sep. 2022年　__査読有り__
 1. [Construction of Responsive Utterance Corpus for Attentive Listening Response Production](https://aclanthology.org/2022.lrec-1.786/), Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022), pp. 7244 - 7252, Marseille, France (hybrid), Jun. 2022年　__査読有り__
 1. マルチタスク学習を用いた傾聴的な応答の生成精度改善, 長坂 光将，村田 匡輝, 令和3年度第3ブロック専攻科研究フォーラム, C-8, 2022年3月
