@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![プロフィール]({{site.baseurl}}/assets/images/profile.jpg)
-
 ## プロフィール
 
 - 氏名：[村田 匡輝](https://researchmap.jp/Masaki_MURATA){:target="_blank"} (Masaki MURATA)
@@ -13,14 +11,12 @@ permalink: /about/
 - 役職：准教授
 - 連絡先：murata [at] toyota-ct.ac.jp
 
+![プロフィール]({{site.baseurl}}/assets/images/profile.jpg)
+
 ## 学歴
 
-- 2003年3月　名古屋市立向陽高等学校卒業
-- 2004年4月　名古屋大学 工学部 電気電子・情報工学科 入学
 - 2008年3月　名古屋大学 工学部 電気電子・情報工学科（情報工学コース） 卒業
-- 2008年4月　名古屋大学大学院 情報科学研究科 社会システム情報学専攻 博士前期課程 入学
 - 2010年3月　名古屋大学大学院 情報科学研究科 社会システム情報学専攻 博士前期課程 修了
-- 2010年4月　名古屋大学大学院 情報科学研究科 社会システム情報学専攻 博士後期課程 入学
 - 2013年3月　名古屋大学大学院 情報科学研究科 社会システム情報学専攻 博士後期課程 修了　__博士__（__情報科学__）取得
   - 博士論文：[読みやすいテキスト提示のための日本語文の整形に関する研究](https://nagoya.repo.nii.ac.jp/records/15926#.YU1hxmZLjzc){:target="_blank"}
 
