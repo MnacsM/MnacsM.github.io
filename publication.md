@@ -16,6 +16,7 @@ permalink: /publication/
 
 ## 国際会議
 
+1. Automatic Insertion of Commas and Linefeeds into Lecture Transcripts Based on Multi-task Learning, Zhicheng Fang, Masaki Murata, Shigeki Matsubara, Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 2023), Hung Hom, Hong Kong (hybrid), Dec. 2023年 (to appear)　__査読有り__
 1. Teaching and Grading Team Programming Skills Using a Code Sharing Platform: A Case Study of Cloud Application Development, Manabu Hirano, Masaki Murata, Takumi Nakano, Proceedings of the 15th International Symposium on Advances in Technology Education (ISATE 2022), Temasek Polytechnic, Singapore (online), Sep. 2022年　__査読有り__
 1. [Construction of Responsive Utterance Corpus for Attentive Listening Response Production](https://aclanthology.org/2022.lrec-1.786/){:target="_blank"}, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022), pp. 7244 -- 7252, Marseille, France (hybrid), Jun. 2022年　__査読有り__
 1. Identification of Important Utterances in Narrative Speech Using Attentive Listening Responses, Shunsuke Kosugi, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP2021), pp. 1 -- 5, online, Dec. 2021年　__査読有り__

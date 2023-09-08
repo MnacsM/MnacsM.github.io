@@ -5,6 +5,7 @@ title: Publication
 
 ## 2023
 
+1. Automatic Insertion of Commas and Linefeeds into Lecture Transcripts Based on Multi-task Learning, Zhicheng Fang, Masaki Murata, Shigeki Matsubara, Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 2023), Hung Hom, Hong Kong (hybrid), Dec. 2023年 (to appear)　__査読有り__
 1. 傾聴応答を想起させる語りの抽出, 髙橋 敬多, 村田 匡輝, 令和5年度電気・電子・情報関係学会東海支部連合大会講演論文集, G4-5, 2023年8月
 1. 語りへの傾聴を示す応答生成における発話履歴の活用, 腰山 達也, 村田 匡輝, 令和5年度電気・電子・情報関係学会東海支部連合大会講演論文集, G4-6, 2023年8月
 1. 語りの傾聴において不同意される発話とその検出, 伊藤 滉一朗, 村田 匡輝, 大野 誠寛, 松原 茂樹, 言語処理学会第29回年次大会発表論文集, pp. 3155 -- 3159, 2023年3月
