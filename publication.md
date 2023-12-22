@@ -6,6 +6,7 @@ permalink: /publication/
 
 ## 査読付き学術論文
 
+1. 語りの傾聴において不同意を示す応答の生成, 伊藤 滉一朗, 村田 匡輝, 大野 誠寛, 松原 茂樹, 自然言語処理, Vol. 31, No. 1, pp. xx -- xx, 2024年3月（採録決定）　__査読有り__
 1. [語りに傾聴を示す応答の表出されやすさの推定](https://search.ieice.org/bin/summary.php?id=j106-a_3_136&category=A&year=2023&lang=J&abst=){:target="_blank"}, 伊藤 滉一朗, 村田 匡輝, 大野 誠寛, 松原 茂樹, 電子情報通信学会論文誌, Vol. J106-A, No. 3, pp. 136 -- 145, 2023年3月　__査読有り__
 1. [語りの傾聴を話し手に示す応答発話の収集](https://doi.org/10.1541/ieejeiss.138.637){:target="_blank"}, 村田 匡輝, 大野 誠寛, 松原 茂樹, 電気学会論文誌, Vol. 138-C, No. 5, pp. 637 -- 638, 2018年5月　__査読有り__
 1. [自然なニュース音声の自動生成に向けた体言止めの文への文末表現の補完](https://search.ieice.org/bin/summary.php?id=j97-d_1_181){:target="_blank"}, 松原 茂樹, 村田 匡輝, 電子情報通信学会論文誌, Vol. 97-D, No. 1, pp. 181 -- 185, 2014年1月　__査読有り__
@@ -16,7 +17,7 @@ permalink: /publication/
 
 ## 国際会議
 
-1. Automatic Insertion of Commas and Linefeeds into Lecture Transcripts Based on Multi-task Learning, Zhicheng Fang, Masaki Murata, Shigeki Matsubara, Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 2023), Hung Hom, Hong Kong (hybrid), Dec. 2023年 (to appear)　__査読有り__
+1. Automatic Insertion of Commas and Linefeeds into Lecture Transcripts Based on Multi-task Learning, Zhicheng Fang, Masaki Murata, Shigeki Matsubara, Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 2023), Hung Hom, Hong Kong (hybrid), Dec. 2023年　__査読有り__
 1. Teaching and Grading Team Programming Skills Using a Code Sharing Platform: A Case Study of Cloud Application Development, Manabu Hirano, Masaki Murata, Takumi Nakano, Proceedings of the 15th International Symposium on Advances in Technology Education (ISATE 2022), Temasek Polytechnic, Singapore (online), Sep. 2022年　__査読有り__
 1. [Construction of Responsive Utterance Corpus for Attentive Listening Response Production](https://aclanthology.org/2022.lrec-1.786/){:target="_blank"}, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022), pp. 7244 -- 7252, Marseille, France (hybrid), Jun. 2022年　__査読有り__
 1. Identification of Important Utterances in Narrative Speech Using Attentive Listening Responses, Shunsuke Kosugi, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP2021), pp. 1 -- 5, online, Dec. 2021年　__査読有り__
