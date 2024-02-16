@@ -9,7 +9,7 @@ title: Publication
 
 ## 2023
 
-1. Automatic Insertion of Commas and Linefeeds into Lecture Transcripts Based on Multi-task Learning, Zhicheng Fang, Masaki Murata, Shigeki Matsubara, Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 2023), Hung Hom, Hong Kong (hybrid), Dec. 2023年　__査読有り__
+1. [Automatic Insertion of Commas and Linefeeds into Lecture Transcripts Based on Multi-task Learning](https://aclanthology.org/2023.paclic-1.87/), Zhicheng Fang, Masaki Murata, Shigeki Matsubara, Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 2023), Hung Hom, Hong Kong (hybrid), Dec. 2023年　__査読有り__
 1. 傾聴応答を想起させる語りの抽出, 髙橋 敬多, 村田 匡輝, 令和5年度電気・電子・情報関係学会東海支部連合大会講演論文集, G4-5, 2023年8月
 1. 語りへの傾聴を示す応答生成における発話履歴の活用, 腰山 達也, 村田 匡輝, 令和5年度電気・電子・情報関係学会東海支部連合大会講演論文集, G4-6, 2023年8月
 1. 語りの傾聴において不同意される発話とその検出, 伊藤 滉一朗, 村田 匡輝, 大野 誠寛, 松原 茂樹, 言語処理学会第29回年次大会発表論文集, pp. 3155 -- 3159, 2023年3月
@@ -26,8 +26,8 @@ title: Publication
 
 ## 2021
 
-1. Identification of Important Utterances in Narrative Speech Using Attentive Listening Responses, Shunsuke Kosugi, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP2021), pp. 1 -- 5, online, Dec. 2021年　__査読有り__
-1. Estimating the Generation Timing of Responsive Utterances by Active Listeners of Spoken Narratives, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of IEEE Automatic Speech Recognition and Understanding Workshop (ASRU 2021), pp. 495 -- 502, Cartagena, Colombia (online), Dec. 2021年　__査読有り__
+1. [Identification of Important Utterances in Narrative Speech Using Attentive Listening Responses](https://ieeexplore.ieee.org/document/9678154), Shunsuke Kosugi, Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of the 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP2021), pp. 1 -- 5, online, Dec. 2021年　__査読有り__
+1. [Estimating the Generation Timing of Responsive Utterances by Active Listeners of Spoken Narratives](https://ieeexplore.ieee.org/document/9688132), Koichiro Ito, Masaki Murata, Tomohiro Ohno, Shigeki Matsubara, Proceedings of IEEE Automatic Speech Recognition and Understanding Workshop (ASRU 2021), pp. 495 -- 502, Cartagena, Colombia (online), Dec. 2021年　__査読有り__
 1. 不同意を示す傾聴応答が表出される語りの発話の分析, 河本 悠太, 伊藤 滉一朗, 村田 匡輝, 松原 茂樹, 令和3年度電気・電子・情報関係学会東海支部連合大会講演論文集, G5-3, 2021年9月
 1. 傾聴を示す応答を用いた語りの重要箇所の同定, 小杉 駿介, 伊藤 滉一朗, 村田 匡輝, 大野 誠寛, 松原 茂樹, 第20回情報科学技術フォーラム講演論文集, E-041, 2021年8月
 1. 語りに傾聴を示す応答の表出されやすさの推定, 伊藤 滉一朗, 村田 匡輝, 大野 誠寛, 松原 茂樹, 言語処理学会第27回年次大会発表論文集, pp. 200 -- 205, 2021年3月
