@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://MnacsM.github.io/sitemap.xml
