@@ -7,6 +7,10 @@ vendor
 
 .DS_Store
 
-_pages/blog.md
-_pages/cv.md
-assets/json/resume.json
+.jekyll-cache
+.ruby-version
+.tweet-cache
+Gemfile.lock
+assets/libs/
+node_modules/
+.idea

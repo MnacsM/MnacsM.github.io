@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "Masaki Murata",
+    "label": "Associate Professor",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Associate Professor at Toyota Technological Institute, focused on developing systems for attentive listening to human narratives and creating readable subtitles.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "education": [
+    {
+      "institution": "Nagoya University",
+      "area": "Information Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2008-03-01",
+      "endDate": "",
+      "description": ""
+    },
+    {
+      "institution": "Nagoya University Graduate School",
+      "area": "Social System Information Science",
+      "studyType": "Master",
+      "startDate": "2010-03-01",
+      "endDate": "",
+      "description": ""
+    },
+    {
+      "institution": "Nagoya University Graduate School",
+      "area": "Social System Information Science",
+      "studyType": "PhD",
+      "startDate": "2013-03-01",
+      "endDate": "",
+      "description": "Doctoral thesis on formatting Japanese text for readability."
+    }
+  ],
+  "work": [
+    {
+      "name": "Toyota Technological Institute",
+      "position": "Assistant Professor",
+      "startDate": "2013-04-01",
+      "endDate": "2018-03-31",
+      "summary": "Researched and taught various aspects of information engineering, focusing on systems for processing and understanding human narratives."
+    },
+    {
+      "name": "Toyota Technological Institute",
+      "position": "Associate Professor",
+      "startDate": "2018-04-01",
+      "endDate": "",
+      "summary": "Continues to develop systems for attentive listening and readability improvement in subtitles."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Student Research Encouragement Award",
+      "date": "2009-01-01",
+      "awarder": "The Institute of Electronics, Information and Communication Engineers",
+      "summary": "Awarded for outstanding student research in the field of information engineering."
+    },
+    {
+      "title": "Academic Encouragement Award",
+      "date": "2010-01-01",
+      "awarder": "Nagoya University",
+      "summary": "Recognized for exceptional academic contributions during doctoral studies."
+    },
+    {
+      "title": "Encouragement Award",
+      "date": "2011-01-01",
+      "awarder": "Electrical, Electronics, and Information Engineering Society",
+      "summary": "Honored for innovative research in attentive listening technologies."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Information Engineering",
+      "level": "Advanced",
+      "keywords": ["Human Narrative Processing", "Readable Subtitles", "Listening Systems"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Japanese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research",
+      "keywords": ["Attentive Listening", "Subtitle Readability", "Speech Processing"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Automated Caption Generation",
+      "summary": "Development of technologies to automatically generate understandable subtitles from speech recognition results.",
+      "startDate": "2022-01-01",
+      "endDate": "2024-01-01"
+    },
+    {
+      "name": "Listening Technology for Personal Robots",
+      "summary": "Exploring methods for personal robots to actively listen and engage with human speakers to enhance communication.",
+      "startDate": "2015-01-01",
+      "endDate": "2018-01-01"
+    }
+  ]
+}
