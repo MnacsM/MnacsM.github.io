@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://www.toyota-ct.ac.jp/j/index.php">豊田工業高等専門学校</a> <a href="https://www.ice.toyota-ct.ac.jp/jp/">情報工学科</a> 准教授
+subtitle: <a href="https://www.toyota-ct.ac.jp/">豊田工業高等専門学校</a> <a href="https://www.ice.toyota-ct.ac.jp/jp/">情報工学科</a> 准教授
 profile:
   align: right
   image: profile.jpg
