@@ -51,7 +51,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 ### 所属学会
 
-言語処理学会，情報処理学会，電気情報通信学会各会員
+言語処理学会，情報処理学会，電子情報通信学会各会員
 
 #### 委員歴
 
