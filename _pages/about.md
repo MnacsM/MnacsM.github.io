@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://www.toyota-ct.ac.jp/">豊田工業高等専門学校</a> <a href="https://www.ice.toyota-ct.ac.jp/jp/">情報工学科</a> 准教授
+subtitle: <a href="https://www.chukyo-u.ac.jp/">中京大学</a> <a href="https://www.chukyo-u.ac.jp/educate/secu/information/">工学部 情報工学科</a> 講師
 profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>🎓 <a href="https://researchmap.jp/Masaki_MURATA">researchmap</a></p>
-    <p>📩 murata&#64;toyota-ct.ac.jp</p>
+    <p>📩 m-murata&#64;sist.chukyo-u.ac.jp</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -41,7 +41,8 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 ### 職歴
 
 - 2013年4月 - 2018年3月　豊田工業高等専門学校 情報工学科 助教
-- 2018年4月 - 現在　豊田工業高等専門学校 情報工学科 准教授
+- 2018年4月 - 2025年8月　豊田工業高等専門学校 情報工学科 准教授
+- 2025年9月 - 現在　中京大学 工学部 情報工学科 講師
 
 <!-- ## 賞罰
 
