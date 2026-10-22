@@ -9,6 +9,8 @@ allow_locale_overrides: true
 ---
 
 <!-- _pages/publications.md -->
+{% include bib_search.liquid %}
+
 <div class="publications">
 
 {% bibliography %}

@@ -1,0 +1,13 @@
+{%- comment -%}Site-specific publication details; the surrounding layout comes from al_folio_core.{%- endcomment -%}
+{% if entry.address and entry.location == blank %}
+  {% capture entrytype %}{{ entrytype }}, {{ entry.address }}{% endcapture %}
+{% endif %}
+{% if entry.volume %}
+  {% capture entrytype %}{{ entrytype }}, Vol. {{ entry.volume }}{% endcapture %}
+{% endif %}
+{% if entry.number %}
+  {% capture entrytype %}{{ entrytype }}, No. {{ entry.number }}{% endcapture %}
+{% endif %}
+{% if entry.pages %}
+  {% capture entrytype %}{{ entrytype }}, pp. {{ entry.pages }}{% endcapture %}
+{% endif %}
