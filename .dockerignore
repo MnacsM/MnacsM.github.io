@@ -1,0 +1,7 @@
+_site/
+.git/
+assets/
+node_modules/
+.bundle/
+.jekyll-cache/
+test-results/
