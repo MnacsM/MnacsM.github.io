@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>🎓 <a href="https://researchmap.jp/Masaki_MURATA">researchmap</a></p>
-    <p>📩 m-murata&#64;sist.chukyo-u.ac.jp</p>
+    <p>📩 <img src="/assets/img/contact-email.png" alt="連絡先メールアドレス（画像）" width="236" height="21" style="max-width: calc(100% - 2em); height: auto; vertical-align: middle; border-radius: 3px;"></p>
 
 announcements:
   enabled: true
