@@ -146,6 +146,7 @@ exclude:
   - test/
   - playwright.config.js
   - ".al-folio-overrides.yml"
+  - how_to_update.md
 keep_files:
   - CNAME
   - ".nojekyll"
