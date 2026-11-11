@@ -8,3 +8,10 @@ overrides:
     upstream_sha256: f3c547969ef76219ca1eb21df09dce5a3daf32a1f491b1586f68e3213fa35f53
     local_sha256: 03351a1adbb73e89d628ce3975bea49a355e649f8c736d35b54d4bee2540e0d1
     acknowledged_at: '2026-10-22'
+  _sass/_themes.scss:
+    owner: al_folio_core
+    gem_version: 1.0.15
+    upstream_path: _sass/_themes.scss
+    upstream_sha256: b581e43dcfbf21c14f388e2b585474c886fad62f6b5a0444f7832e7f69745f1f
+    local_sha256: 292ca926113c08d44b11a542a9dfaf7c5414a07cee52aa3ac0743c9cabb64d76
+    acknowledged_at: '2026-11-11'
